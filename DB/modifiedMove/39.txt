@@ -1,0 +1,1 @@
+{"pp":30,"created":"2013-11-03T15:06:09.589975","resource_uri":"/api/v1/move/39/","name":"Tail-whip","accuracy":100,"description":"Lowers the target's Defense by one stage.","modified":"2013-12-24T15:24:29.868930","id":39,"power":0,"category":"status","type":"normal"}

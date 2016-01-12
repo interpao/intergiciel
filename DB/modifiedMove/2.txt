@@ -1,0 +1,1 @@
+{"pp":25,"created":"2013-11-03T15:06:09.484735","resource_uri":"/api/v1/move/2/","name":"Karate-chop","accuracy":100,"description":"Inflicts regular damage.  User's critical hit rate is one level higher when using this move.","modified":"2013-12-24T15:24:29.650999","id":2,"power":50,"category":"physical","type":"fighting"}

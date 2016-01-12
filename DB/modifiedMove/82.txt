@@ -1,0 +1,1 @@
+{"pp":10,"created":"2013-11-03T15:06:09.696898","resource_uri":"/api/v1/move/82/","name":"Dragon-rage","accuracy":100,"description":"Inflicts exactly 40 damage.","modified":"2013-12-24T15:24:30.140046","id":82,"power":1,"category":"special","type":"dragon"}

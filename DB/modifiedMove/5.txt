@@ -1,0 +1,1 @@
+{"pp":20,"created":"2013-11-03T15:06:09.493769","resource_uri":"/api/v1/move/5/","name":"Mega-punch","accuracy":85,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.669820","id":5,"power":80,"category":"physical","type":"normal"}

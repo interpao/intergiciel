@@ -1,0 +1,1 @@
+{"pp":10,"created":"2013-11-03T15:06:09.845162","resource_uri":"/api/v1/move/135/","name":"Softboiled","accuracy":0,"description":"Heals the user for half its max HP.","modified":"2013-12-24T15:24:30.448046","id":135,"power":0,"category":"status","type":"normal"}

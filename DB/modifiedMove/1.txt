@@ -1,0 +1,1 @@
+{"pp":35,"created":"2013-11-03T15:06:09.478009","resource_uri":"/api/v1/move/1/","name":"Pound","accuracy":100,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.625596","id":1,"power":40,"category":"physical","type":"normal"}

@@ -1,0 +1,1 @@
+{"pp":15,"created":"2013-11-03T15:06:09.723783","resource_uri":"/api/v1/move/88/","name":"Rock-throw","accuracy":90,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:30.173085","id":88,"power":50,"category":"physical","type":"rock"}

@@ -1,0 +1,1 @@
+{"pp":15,"created":"2013-11-03T15:06:09.842973","resource_uri":"/api/v1/move/134/","name":"Kinesis","accuracy":80,"description":"Lowers the target's accuracy by one stage.","modified":"2013-12-24T15:24:30.442603","id":134,"power":0,"category":"status","type":"psychic"}

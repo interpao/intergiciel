@@ -1,0 +1,6 @@
+{
+  "name" : "adamant",
+  "plus" : "Atk",
+  "minus" : "spA"
+}
+ 

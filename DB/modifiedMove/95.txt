@@ -1,0 +1,1 @@
+{"pp":20,"created":"2013-11-03T15:06:09.738332","resource_uri":"/api/v1/move/95/","name":"Hypnosis","accuracy":60,"description":"Puts the target to sleep.","modified":"2013-12-24T15:24:30.213396","id":95,"power":0,"category":"status","type":"psychic"}

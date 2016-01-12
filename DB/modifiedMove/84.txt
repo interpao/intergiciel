@@ -1,0 +1,1 @@
+{"pp":30,"created":"2013-11-03T15:06:09.703325","resource_uri":"/api/v1/move/84/","name":"Thundershock","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to paralyze the target.","modified":"2013-12-24T15:24:30.151055","id":84,"power":40,"category":"special","type":"electric"}

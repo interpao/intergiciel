@@ -1,0 +1,1 @@
+{"pp":20,"created":"2013-11-03T15:06:09.640257","resource_uri":"/api/v1/move/60/","name":"Psybeam","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to confuse the target.","modified":"2013-12-24T15:24:30.005914","id":60,"power":65,"category":"special","type":"psychic"}

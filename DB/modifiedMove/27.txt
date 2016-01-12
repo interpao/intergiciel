@@ -1,0 +1,1 @@
+{"pp":15,"created":"2013-11-03T15:06:09.553955","resource_uri":"/api/v1/move/27/","name":"Rolling-kick","accuracy":85,"description":"Inflicts regular damage.  Has a 30% chance to make the target flinch.","modified":"2013-12-24T15:24:29.794725","id":27,"power":60,"category":"physical","type":"fighting"}

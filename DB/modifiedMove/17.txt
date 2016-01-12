@@ -1,0 +1,1 @@
+{"pp":35,"created":"2013-11-03T15:06:09.528672","resource_uri":"/api/v1/move/17/","name":"Wing-attack","accuracy":100,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.739670","id":17,"power":60,"category":"physical","type":"flying"}

@@ -1,0 +1,1 @@
+{"pp":15,"created":"2013-11-03T15:06:09.875446","resource_uri":"/api/v1/move/149/","name":"Psywave","accuracy":80,"description":"Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%.","modified":"2013-12-24T15:24:30.526801","id":149,"power":1,"category":"special","type":"psychic"}

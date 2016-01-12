@@ -1,0 +1,1 @@
+{"pp":20,"created":"2013-11-03T15:06:09.616236","resource_uri":"/api/v1/move/49/","name":"Sonicboom","accuracy":90,"description":"Inflicts exactly 20 damage.","modified":"2013-12-24T15:24:29.926023","id":49,"power":1,"category":"special","type":"normal"}

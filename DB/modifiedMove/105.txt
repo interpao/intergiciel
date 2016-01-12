@@ -1,0 +1,1 @@
+{"pp":10,"created":"2013-11-03T15:06:09.765623","resource_uri":"/api/v1/move/105/","name":"Recover","accuracy":0,"description":"Heals the user for half its max HP.","modified":"2013-12-24T15:24:30.273340","id":105,"power":0,"category":"status","type":"normal"}

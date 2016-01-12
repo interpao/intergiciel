@@ -1,0 +1,1 @@
+{"pp":15,"created":"2013-11-03T15:06:09.985767","resource_uri":"/api/v1/move/196/","name":"Icy-wind","accuracy":95,"description":"Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.","modified":"2013-12-24T15:24:30.795265","id":196,"power":55,"category":"special","type":"ice"}

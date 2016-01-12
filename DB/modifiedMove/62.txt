@@ -1,0 +1,1 @@
+{"pp":20,"created":"2013-11-03T15:06:09.644434","resource_uri":"/api/v1/move/62/","name":"Aurora-beam","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.","modified":"2013-12-24T15:24:30.017382","id":62,"power":65,"category":"special","type":"ice"}

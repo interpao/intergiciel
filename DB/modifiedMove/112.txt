@@ -1,0 +1,1 @@
+{"pp":30,"created":"2013-11-03T15:06:09.786407","resource_uri":"/api/v1/move/112/","name":"Barrier","accuracy":0,"description":"Raises the user's Defense by two stages.","modified":"2013-12-24T15:24:30.320815","id":112,"power":0,"category":"status","type":"psychic"}

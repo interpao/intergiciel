@@ -1,0 +1,1 @@
+{"pp":40,"created":"2013-11-03T15:06:09.781160","resource_uri":"/api/v1/move/110/","name":"Withdraw","accuracy":0,"description":"Raises the user's Defense by one stage.","modified":"2013-12-24T15:24:30.309550","id":110,"power":0,"category":"status","type":"water"}

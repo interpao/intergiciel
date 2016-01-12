@@ -1,0 +1,1 @@
+{"pp":40,"created":"2013-11-03T15:06:09.854222","resource_uri":"/api/v1/move/139/","name":"Poison-gas","accuracy":80,"description":"Poisons the target.","modified":"2013-12-24T15:24:30.470201","id":139,"power":0,"category":"status","type":"poison"}

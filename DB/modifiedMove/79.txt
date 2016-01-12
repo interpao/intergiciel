@@ -1,0 +1,1 @@
+{"pp":15,"created":"2013-11-03T15:06:09.685765","resource_uri":"/api/v1/move/79/","name":"Sleep-powder","accuracy":75,"description":"Puts the target to sleep.","modified":"2013-12-24T15:24:30.123353","id":79,"power":0,"category":"status","type":"grass"}

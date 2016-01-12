@@ -1,0 +1,1 @@
+{"pp":20,"created":"2013-11-03T15:06:09.829596","resource_uri":"/api/v1/move/129/","name":"Swift","accuracy":0,"description":"Inflicts regular damage.  Ignores accuracy and evasion modifiers.","modified":"2013-12-24T15:24:30.414855","id":129,"power":60,"category":"special","type":"normal"}

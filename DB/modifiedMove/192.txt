@@ -1,0 +1,1 @@
+{"pp":5,"created":"2013-11-03T15:06:09.976707","resource_uri":"/api/v1/move/192/","name":"Zap-cannon","accuracy":50,"description":"Inflicts regular damage.  Has a 100% chance to paralyze the target.","modified":"2013-12-24T15:24:30.772323","id":192,"power":120,"category":"special","type":"electric"}

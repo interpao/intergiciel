@@ -1,0 +1,1 @@
+{"pp":30,"created":"2013-11-03T15:06:09.896215","resource_uri":"/api/v1/move/159/","name":"Sharpen","accuracy":0,"description":"Raises the user's Attack by one stage.","modified":"2013-12-24T15:24:30.582366","id":159,"power":0,"category":"status","type":"normal"}

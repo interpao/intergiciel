@@ -1,0 +1,1 @@
+{"pp":30,"created":"2013-11-03T15:06:09.620709","resource_uri":"/api/v1/move/51/","name":"Acid","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.","modified":"2013-12-24T15:24:29.940763","id":51,"power":40,"category":"special","type":"poison"}
