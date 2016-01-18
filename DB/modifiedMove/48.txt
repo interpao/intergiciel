@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.614086","resource_uri":"/api/v1/move/48/","name":"Supersonic","accuracy":55,"description":"Confuse the target.","modified":"2013-12-24T15:24:29.920229","id":48,"power":0,"category":"status","type":"normal"}

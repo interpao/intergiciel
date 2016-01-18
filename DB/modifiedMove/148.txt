@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.873290","resource_uri":"/api/v1/move/148/","name":"Flash","accuracy":100,"description":"Lowers the target's accuracy by one stage.","modified":"2013-12-24T15:24:30.520951","id":148,"power":0,"category":"status","type":"normal"}

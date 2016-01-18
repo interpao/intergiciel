@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:11.023619", "description": "", "id": 601, "modified": "2013-11-03T15:06:11.023565", "name": "Spiky-shield", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/601/"}
+{"pp":20,"created":"2013-11-03T15:06:11.023619","resource_uri":"/api/v1/move/601/","accuracy":0,"description":"","type":"grass","priority":4,"target":"user","name":"Spiky-shield","modified":"2013-11-03T15:06:11.023565","id":601,"power":0,"category":"status"}

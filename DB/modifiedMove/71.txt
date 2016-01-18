@@ -1,1 +1,0 @@
-{"pp":25,"created":"2013-11-03T15:06:09.663856","resource_uri":"/api/v1/move/71/","name":"Absorb","accuracy":100,"description":"Inflicts regular damage.  Drains half the damage inflicted to heal the user.","modified":"2013-12-24T15:24:30.069625","id":71,"power":20,"category":"special","type":"grass"}

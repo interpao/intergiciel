@@ -1,1 +1,0 @@
-{"pp":30,"created":"2013-11-03T15:06:09.866672","resource_uri":"/api/v1/move/145/","name":"Bubble","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.","modified":"2013-12-24T15:24:30.504061","id":145,"power":20,"category":"special","type":"water"}

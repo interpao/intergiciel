@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.973350", "description": "", "id": 582, "modified": "2013-11-03T15:06:10.973298", "name": "Kings-shield", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/582/"}
+{"pp":10,"created":"2013-11-03T15:06:10.973350","resource_uri":"/api/v1/move/582/","accuracy":0,"description":"","type":"steel","priority":4,"target":"user","name":"Kings-shield","modified":"2013-11-03T15:06:10.973298","id":582,"power":0,"category":"status"}

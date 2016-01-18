@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.902903","resource_uri":"/api/v1/move/162/","name":"Super-fang","accuracy":90,"description":"Inflicts typeless damage equal to half the target's remaining HP.","modified":"2013-12-24T15:24:30.598912","id":162,"power":1,"category":"physical","type":"normal"}

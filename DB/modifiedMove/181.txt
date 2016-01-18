@@ -1,1 +1,0 @@
-{"pp":25,"created":"2013-11-03T15:06:09.945048","resource_uri":"/api/v1/move/181/","name":"Powder-snow","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to freeze the target.","modified":"2013-12-24T15:24:30.708266","id":181,"power":40,"category":"special","type":"ice"}

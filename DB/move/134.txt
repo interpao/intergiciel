@@ -1,1 +1,1 @@
-{"accuracy": 80, "category": "", "created": "2013-11-03T15:06:09.842973", "description": "Lowers the target's accuracy by one stage.", "id": 134, "modified": "2013-12-24T15:24:30.442603", "name": "Kinesis", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/134/"}
+{"pp":15,"created":"2013-11-03T15:06:09.842973","resource_uri":"/api/v1/move/134/","accuracy":80,"description":"Lowers the target's accuracy by one stage.","type":"psychic","priority":0,"target":"user","name":"Kinesis","modified":"2013-12-24T15:24:30.442603","id":134,"power":0,"category":"status"}

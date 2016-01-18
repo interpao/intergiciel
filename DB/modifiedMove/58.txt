@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.635898","resource_uri":"/api/v1/move/58/","name":"Ice-beam","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to freeze the target.","modified":"2013-12-24T15:24:29.993142","id":58,"power":95,"category":"special","type":"ice"}

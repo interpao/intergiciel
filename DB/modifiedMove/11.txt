@@ -1,1 +1,0 @@
-{"pp":30,"created":"2013-11-03T15:06:09.509751","resource_uri":"/api/v1/move/11/","name":"Vicegrip","accuracy":100,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.705323","id":11,"power":55,"category":"physical","type":"normal"}

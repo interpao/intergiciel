@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.851842","resource_uri":"/api/v1/move/138/","name":"Dream-eater","accuracy":100,"description":"Fails if not used on a sleep Pokémon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.","modified":"2013-12-24T15:24:30.464564","id":138,"power":100,"category":"special","type":"psychic"}

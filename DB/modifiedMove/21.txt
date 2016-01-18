@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.538455","resource_uri":"/api/v1/move/21/","name":"Slam","accuracy":75,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.761713","id":21,"power":80,"category":"physical","type":"normal"}

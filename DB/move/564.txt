@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.926040", "description": "", "id": 564, "modified": "2013-11-03T15:06:10.925979", "name": "Crafty-shield", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/564/"}
+{"pp":10,"created":"2013-11-03T15:06:10.926040","resource_uri":"/api/v1/move/564/","accuracy":0,"description":"","type":"fairy","priority":3,"target":"user","name":"Crafty-shield","modified":"2013-11-03T15:06:10.925979","id":564,"power":0,"category":"status"}

@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:11.038856", "description": "", "id": 606, "modified": "2013-11-03T15:06:11.038799", "name": "Water-shuriken", "power": 15, "pp": 20, "resource_uri": "/api/v1/move/606/"}
+{"pp":20,"created":"2013-11-03T15:06:11.038856","resource_uri":"/api/v1/move/606/","accuracy":100,"description":"","type":"water","priority":1,"target":"opponent","name":"Water-shuriken","modified":"2013-11-03T15:06:11.038799","id":606,"power":15,"category":"physical"}

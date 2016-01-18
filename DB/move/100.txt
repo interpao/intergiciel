@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:09.748774", "description": "Does nothing.  Wild battles end immediately.", "id": 100, "modified": "2013-12-24T15:24:30.242335", "name": "Teleport", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/100/"}
+{"pp":20,"created":"2013-11-03T15:06:09.748774","resource_uri":"/api/v1/move/100/","accuracy":0,"description":"Does nothing.  Wild battles end immediately.","type":"psychic","priority":0,"target":"user","name":"Teleport","modified":"2013-12-24T15:24:30.242335","id":100,"power":0,"category":"status"}

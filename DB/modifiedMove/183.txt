@@ -1,1 +1,0 @@
-{"pp":30,"created":"2013-11-03T15:06:09.949257","resource_uri":"/api/v1/move/183/","name":"Mach-punch","accuracy":100,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:30.720679","id":183,"power":40,"category":"physical","type":"fighting"}

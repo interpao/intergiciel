@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.565157", "description": "Inflicts regular damage.", "id": 418, "modified": "2013-12-24T15:24:32.117497", "name": "Bullet-punch", "power": 40, "pp": 30, "resource_uri": "/api/v1/move/418/"}
+{"pp":30,"created":"2013-11-03T15:06:10.565157","resource_uri":"/api/v1/move/418/","accuracy":100,"description":"Inflicts regular damage.","type":"steel","priority":1,"target":"opponent","name":"Bullet-punch","modified":"2013-12-24T15:24:32.117497","id":418,"power":40,"category":"physical"}

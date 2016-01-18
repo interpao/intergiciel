@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.748774","resource_uri":"/api/v1/move/100/","name":"Teleport","accuracy":0,"description":"Does nothing.  Wild battles end immediately.","modified":"2013-12-24T15:24:30.242335","id":100,"power":0,"category":"status","type":"psychic"}

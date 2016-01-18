@@ -1,1 +1,0 @@
-{"pp":40,"created":"2013-11-03T15:06:09.740374","resource_uri":"/api/v1/move/96/","name":"Meditate","accuracy":0,"description":"Raises the user's Attack by one stage.","modified":"2013-12-24T15:24:30.219018","id":96,"power":0,"category":"status","type":"psychic"}

@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.860315","resource_uri":"/api/v1/move/142/","name":"Lovely-kiss","accuracy":75,"description":"Puts the target to sleep.","modified":"2013-12-24T15:24:30.486408","id":142,"power":0,"category":"status","type":"normal"}

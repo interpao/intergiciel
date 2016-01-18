@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:11.017850", "description": "", "id": 599, "modified": "2013-11-03T15:06:11.017800", "name": "Power-up-punch", "power": 40, "pp": 30, "resource_uri": "/api/v1/move/599/"}
+{"pp":30,"created":"2013-11-03T15:06:11.017850","resource_uri":"/api/v1/move/599/","accuracy":100,"description":"","type":"fighting","priority":0,"target":"opponent","name":"Power-up-punch","modified":"2013-11-03T15:06:11.017800","id":599,"power":40,"category":"physical"}

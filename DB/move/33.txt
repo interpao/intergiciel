@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.572521", "description": "Inflicts regular damage.", "id": 33, "modified": "2013-12-24T15:24:29.827942", "name": "Tackle", "power": 50, "pp": 35, "resource_uri": "/api/v1/move/33/"}
+{"pp":35,"created":"2013-11-03T15:06:09.572521","resource_uri":"/api/v1/move/33/","accuracy":100,"description":"Inflicts regular damage.","type":"normal","priority":0,"target":"opponent","name":"Tackle","modified":"2013-12-24T15:24:29.827942","id":33,"power":50,"category":"physical"}

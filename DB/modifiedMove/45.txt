@@ -1,1 +1,0 @@
-{"pp":40,"created":"2013-11-03T15:06:09.606645","resource_uri":"/api/v1/move/45/","name":"Growl","accuracy":100,"description":"Lowers the target's Attack by one stage.","modified":"2013-12-24T15:24:29.903451","id":45,"power":0,"category":"status","type":"normal"}

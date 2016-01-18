@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.563264", "description": "Raises the user's Special Attack by two stages.", "id": 417, "modified": "2013-12-24T15:24:32.111933", "name": "Nasty-plot", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/417/"}
+{"pp":20,"created":"2013-11-03T15:06:10.563264","resource_uri":"/api/v1/move/417/","accuracy":0,"description":"Raises the user's Special Attack by two stages.","type":"dark","priority":0,"target":"user","name":"Nasty-plot","modified":"2013-12-24T15:24:32.111933","id":417,"power":0,"category":"status"}

@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.521906", "description": "Raises the user's Speed by two stages.", "id": 397, "modified": "2013-12-24T15:24:31.996632", "name": "Rock-polish", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/397/"}
+{"pp":20,"created":"2013-11-03T15:06:10.521906","resource_uri":"/api/v1/move/397/","accuracy":0,"description":"Raises the user's Speed by two stages.","type":"rock","priority":0,"target":"user","name":"Rock-polish","modified":"2013-12-24T15:24:31.996632","id":397,"power":0,"category":"status"}

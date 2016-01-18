@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.778566","resource_uri":"/api/v1/move/109/","name":"Confuse-ray","accuracy":100,"description":"Confuse the target.","modified":"2013-12-24T15:24:30.304034","id":109,"power":0,"category":"status","type":"normal"}

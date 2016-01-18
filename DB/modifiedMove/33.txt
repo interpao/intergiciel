@@ -1,1 +1,0 @@
-{"pp":35,"created":"2013-11-03T15:06:09.572521","resource_uri":"/api/v1/move/33/","name":"Tackle","accuracy":100,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.827942","id":33,"power":50,"category":"physical","type":"normal"}

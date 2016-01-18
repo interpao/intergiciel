@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.926231","resource_uri":"/api/v1/move/173/","name":"Snore","accuracy":100,"description":"Only usable if the user is sleep.  Inflicts regular damage.  Has a 30% chance to make the target flinch.","modified":"2013-12-24T15:24:30.662227","id":173,"power":40,"category":"special","type":"normal"}

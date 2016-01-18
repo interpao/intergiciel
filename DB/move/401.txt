@@ -1,1 +1,1 @@
-{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.530447", "description": "Inflicts regular damage.", "id": 401, "modified": "2013-12-24T15:24:32.023832", "name": "Aqua-tail", "power": 90, "pp": 10, "resource_uri": "/api/v1/move/401/"}
+{"pp":10,"created":"2013-11-03T15:06:10.530447","resource_uri":"/api/v1/move/401/","accuracy":90,"description":"Inflicts regular damage.","type":"water","priority":0,"target":"opponent","name":"Aqua-tail","modified":"2013-12-24T15:24:32.023832","id":401,"power":90,"category":"physical"}

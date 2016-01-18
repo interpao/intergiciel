@@ -1,1 +1,1 @@
-{"accuracy": 75, "category": "", "created": "2013-11-03T15:06:09.548997", "description": "Inflicts regular damage.", "id": 25, "modified": "2013-12-24T15:24:29.783580", "name": "Mega-kick", "power": 120, "pp": 5, "resource_uri": "/api/v1/move/25/"}
+{"pp":5,"created":"2013-11-03T15:06:09.548997","resource_uri":"/api/v1/move/25/","accuracy":75,"description":"Inflicts regular damage.","type":"normal","priority":0,"target":"opponent","name":"Mega-kick","modified":"2013-12-24T15:24:29.783580","id":25,"power":120,"category":"physical"}

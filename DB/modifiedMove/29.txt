@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.562406","resource_uri":"/api/v1/move/29/","name":"Headbutt","accuracy":100,"description":"Inflicts regular damage.  Has a 30% chance to make the target flinch.","modified":"2013-12-24T15:24:29.805865","id":29,"power":70,"category":"physical","type":"normal"}

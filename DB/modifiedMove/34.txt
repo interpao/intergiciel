@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.574880","resource_uri":"/api/v1/move/34/","name":"Body-slam","accuracy":100,"description":"Inflicts regular damage.  Has a 30% chance to paralyze the target.","modified":"2013-12-24T15:24:29.833455","id":34,"power":85,"category":"physical","type":"normal"}

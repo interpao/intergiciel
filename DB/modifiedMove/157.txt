@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.892179","resource_uri":"/api/v1/move/157/","name":"Rock-slide","accuracy":90,"description":"Inflicts regular damage.  Has a 30% chance to make the target flinch.","modified":"2013-12-24T15:24:30.571451","id":157,"power":75,"category":"physical","type":"rock"}

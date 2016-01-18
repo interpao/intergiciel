@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.763233","resource_uri":"/api/v1/move/104/","name":"Double-team","accuracy":0,"description":"Raises the user's evasion by one stage.","modified":"2013-12-24T15:24:30.267461","id":104,"power":0,"category":"status","type":"normal"}

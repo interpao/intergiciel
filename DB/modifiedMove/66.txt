@@ -1,1 +1,0 @@
-{"pp":25,"created":"2013-11-03T15:06:09.653031","resource_uri":"/api/v1/move/66/","name":"Submission","accuracy":80,"description":"Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.","modified":"2013-12-24T15:24:30.041607","id":66,"power":80,"category":"physical","type":"fighting"}

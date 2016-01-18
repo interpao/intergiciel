@@ -1,1 +1,0 @@
-{"pp":40,"created":"2013-11-03T15:06:09.692851","resource_uri":"/api/v1/move/81/","name":"String-shot","accuracy":95,"description":"Lowers the target's Speed by one stage.","modified":"2013-12-24T15:24:30.134353","id":81,"power":0,"category":"status","type":"bug"}

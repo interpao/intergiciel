@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.998762", "description": "", "id": 592, "modified": "2013-11-03T15:06:10.998632", "name": "Parabolic-charge", "power": 50, "pp": 20, "resource_uri": "/api/v1/move/592/"}
+{"pp":20,"created":"2013-11-03T15:06:10.998762","resource_uri":"/api/v1/move/592/","accuracy":100,"description":"","type":"electric","priority":0,"target":"opponent","name":"Parabolic-charge","modified":"2013-11-03T15:06:10.998632","id":592,"power":50,"category":"special"}

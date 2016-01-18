@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.569125", "description": "Inflicts regular damage.", "id": 420, "modified": "2013-12-24T15:24:32.128645", "name": "Ice-shard", "power": 40, "pp": 30, "resource_uri": "/api/v1/move/420/"}
+{"pp":30,"created":"2013-11-03T15:06:10.569125","resource_uri":"/api/v1/move/420/","accuracy":100,"description":"Inflicts regular damage.","type":"ice","priority":1,"target":"opponent","name":"Ice-shard","modified":"2013-12-24T15:24:32.128645","id":420,"power":40,"category":"physical"}

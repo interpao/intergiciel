@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.503161","resource_uri":"/api/v1/move/8/","name":"Ice-punch","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to freeze the target.","modified":"2013-12-24T15:24:29.687639","id":8,"power":75,"category":"physical","type":"ice"}

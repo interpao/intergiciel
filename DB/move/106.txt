@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:09.768123", "description": "Raises the user's Defense by one stage.", "id": 106, "modified": "2013-12-24T15:24:30.279010", "name": "Harden", "power": 0, "pp": 30, "resource_uri": "/api/v1/move/106/"}
+{"pp":30,"created":"2013-11-03T15:06:09.768123","resource_uri":"/api/v1/move/106/","accuracy":0,"description":"Raises the user's Defense by one stage.","type":"normal","priority":0,"target":"user","name":"Harden","modified":"2013-12-24T15:24:30.279010","id":106,"power":0,"category":"status"}

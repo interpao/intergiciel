@@ -1,1 +1,0 @@
-{"pp":30,"created":"2013-11-03T15:06:09.849701","resource_uri":"/api/v1/move/137/","name":"Glare","accuracy":90,"description":"Paralyzes the target.","modified":"2013-12-24T15:24:30.459203","id":137,"power":0,"category":"status","type":"normal"}

@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.871101", "description": "Puts the target to sleep.", "id": 147, "modified": "2013-12-24T15:24:30.515358", "name": "Spore", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/147/"}
+{"pp":15,"created":"2013-11-03T15:06:09.871101","resource_uri":"/api/v1/move/147/","accuracy":100,"description":"Puts the target to sleep.","type":"grass","priority":0,"target":"opponent","name":"Spore","modified":"2013-12-24T15:24:30.515358","id":147,"power":0,"category":"status"}

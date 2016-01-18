@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.957480","resource_uri":"/api/v1/move/187/","name":"Belly-drum","accuracy":0,"description":"User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail.","modified":"2013-12-24T15:24:30.744524","id":187,"power":0,"category":"status","type":"normal"}

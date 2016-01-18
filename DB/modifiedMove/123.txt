@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.817091","resource_uri":"/api/v1/move/123/","name":"Smog","accuracy":70,"description":"Inflicts regular damage.  Has a 40% chance to poison the target.","modified":"2013-12-24T15:24:30.381690","id":123,"power":20,"category":"special","type":"poison"}

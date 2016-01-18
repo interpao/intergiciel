@@ -1,1 +1,1 @@
-{"accuracy": 75, "category": "", "created": "2013-11-03T15:06:09.685765", "description": "Puts the target to sleep.", "id": 79, "modified": "2013-12-24T15:24:30.123353", "name": "Sleep-powder", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/79/"}
+{"pp":15,"created":"2013-11-03T15:06:09.685765","resource_uri":"/api/v1/move/79/","accuracy":75,"description":"Puts the target to sleep.","type":"grass","priority":0,"target":"opponent","name":"Sleep-powder","modified":"2013-12-24T15:24:30.123353","id":79,"power":0,"category":"status"}

@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.659802","resource_uri":"/api/v1/move/69/","name":"Seismic-toss","accuracy":100,"description":"Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.","modified":"2013-12-24T15:24:30.058876","id":69,"power":1,"category":"physical","type":"fighting"}

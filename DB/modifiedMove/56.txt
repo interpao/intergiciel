@@ -1,1 +1,0 @@
-{"pp":5,"created":"2013-11-03T15:06:09.631657","resource_uri":"/api/v1/move/56/","name":"Hydro-pump","accuracy":80,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.979986","id":56,"power":120,"category":"special","type":"water"}

@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.812918","resource_uri":"/api/v1/move/121/","name":"Egg-bomb","accuracy":75,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:30.370697","id":121,"power":100,"category":"physical","type":"normal"}

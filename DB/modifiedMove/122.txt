@@ -1,1 +1,0 @@
-{"pp":30,"created":"2013-11-03T15:06:09.815030","resource_uri":"/api/v1/move/122/","name":"Lick","accuracy":100,"description":"Inflicts regular damage.  Has a 30% chance to paralyze the target.","modified":"2013-12-24T15:24:30.376123","id":122,"power":20,"category":"physical","type":"ghost"}

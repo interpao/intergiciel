@@ -1,1 +1,0 @@
-{"pp":25,"created":"2013-11-03T15:06:09.672929","resource_uri":"/api/v1/move/75/","name":"Razor-leaf","accuracy":95,"description":"Inflicts regular damage.  User's critical hit rate is one level higher when using this move.","modified":"2013-12-24T15:24:30.100469","id":75,"power":55,"category":"special","type":"grass"}

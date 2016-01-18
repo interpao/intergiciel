@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.993622", "description": "", "id": 590, "modified": "2013-11-03T15:06:10.993567", "name": "Nuzzle", "power": 20, "pp": 20, "resource_uri": "/api/v1/move/590/"}
+{"pp":20,"created":"2013-11-03T15:06:10.993622","resource_uri":"/api/v1/move/590/","accuracy":100,"description":"","type":"electric","priority":0,"target":"opponent","name":"Nuzzle","modified":"2013-11-03T15:06:10.993567","id":590,"power":20,"category":"physical"}

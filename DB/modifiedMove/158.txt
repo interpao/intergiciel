@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.894176","resource_uri":"/api/v1/move/158/","name":"Hyper-fang","accuracy":90,"description":"Inflicts regular damage.  Has a 10% chance to make the target flinch.","modified":"2013-12-24T15:24:30.576914","id":158,"power":80,"category":"physical","type":"normal"}

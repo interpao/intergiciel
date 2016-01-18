@@ -1,1 +1,0 @@
-{"pp":25,"created":"2013-11-03T15:06:09.629373","resource_uri":"/api/v1/move/55/","name":"Water-gun","accuracy":100,"description":"Inflicts regular damage.","modified":"2013-12-24T15:24:29.973831","id":55,"power":40,"category":"special","type":"water"}

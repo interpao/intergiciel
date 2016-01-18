@@ -1,1 +1,0 @@
-{"pp":40,"created":"2013-11-03T15:06:09.877523","resource_uri":"/api/v1/move/150/","name":"Splash","accuracy":0,"description":"Does nothing.\n\nThis move cannot be used while gravity is in effect.","modified":"2013-12-24T15:24:30.532412","id":150,"power":0,"category":"status","type":"normal"}

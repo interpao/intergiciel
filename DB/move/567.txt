@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.933361", "description": "", "id": 567, "modified": "2013-11-03T15:06:10.933309", "name": "Draining-kiss", "power": 50, "pp": 20, "resource_uri": "/api/v1/move/567/"}
+{"pp":20,"created":"2013-11-03T15:06:10.933361","resource_uri":"/api/v1/move/567/","accuracy":100,"description":"","type":"fairy","priority":0,"target":"opponent","name":"Draining-kiss","modified":"2013-11-03T15:06:10.933309","id":567,"power":50,"category":"special"}

@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.718827","resource_uri":"/api/v1/move/86/","name":"Thunder-wave","accuracy":100,"description":"Paralyzes the target.","modified":"2013-12-24T15:24:30.162507","id":86,"power":0,"category":"status","type":"electric"}

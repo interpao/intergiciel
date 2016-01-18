@@ -1,1 +1,1 @@
-{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.988651", "description": "", "id": 588, "modified": "2013-11-03T15:06:10.988601", "name": "Mystical-fire", "power": 65, "pp": 10, "resource_uri": "/api/v1/move/588/"}
+{"pp":10,"created":"2013-11-03T15:06:10.988651","resource_uri":"/api/v1/move/588/","accuracy":100,"description":"","type":"fire","priority":0,"target":"opponent","name":"Mystical-fire","modified":"2013-11-03T15:06:10.988601","id":588,"power":65,"category":"special"}

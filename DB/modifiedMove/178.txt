@@ -1,1 +1,0 @@
-{"pp":40,"created":"2013-11-03T15:06:09.938945","resource_uri":"/api/v1/move/178/","name":"Cotton-spore","accuracy":100,"description":"Lowers the target's Speed by two stages.","modified":"2013-12-24T15:24:30.690999","id":178,"power":0,"category":"status","type":"grass"}

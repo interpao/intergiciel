@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.951324","resource_uri":"/api/v1/move/184/","name":"Scary-face","accuracy":100,"description":"Lowers the target's Speed by two stages.","modified":"2013-12-24T15:24:30.726471","id":184,"power":0,"category":"status","type":"normal"}

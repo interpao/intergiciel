@@ -1,1 +1,0 @@
-{"pp":15,"created":"2013-11-03T15:06:09.714336","resource_uri":"/api/v1/move/85/","name":"Thunderbolt","accuracy":100,"description":"Inflicts regular damage.  Has a 10% chance to paralyze the target.","modified":"2013-12-24T15:24:30.156811","id":85,"power":95,"category":"special","type":"electric"}

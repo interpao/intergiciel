@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.725886","resource_uri":"/api/v1/move/89/","name":"Earthquake","accuracy":100,"description":"Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power.","modified":"2013-12-24T15:24:30.179121","id":89,"power":100,"category":"physical","type":"ground"}

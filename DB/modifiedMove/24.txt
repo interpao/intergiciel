@@ -1,1 +1,0 @@
-{"pp":30,"created":"2013-11-03T15:06:09.546567","resource_uri":"/api/v1/move/24/","name":"Double-kick","accuracy":100,"description":"Inflicts regular damage.  Hits twice in one turn.","modified":"2013-12-24T15:24:29.778247","id":24,"power":30,"category":"physical","type":"fighting"}

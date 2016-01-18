@@ -1,1 +1,0 @@
-{"pp":40,"created":"2013-11-03T15:06:09.670673","resource_uri":"/api/v1/move/74/","name":"Growth","accuracy":0,"description":"Raises the user's Attack and Special Attack by one stage each.  During sunny-day, raises both stats by two stages.","modified":"2013-12-24T15:24:30.089834","id":74,"power":0,"category":"status","type":"grass"}

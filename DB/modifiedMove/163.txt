@@ -1,1 +1,0 @@
-{"pp":20,"created":"2013-11-03T15:06:09.904883","resource_uri":"/api/v1/move/163/","name":"Slash","accuracy":100,"description":"Inflicts regular damage.  User's critical hit rate is one level higher when using this move.","modified":"2013-12-24T15:24:30.604320","id":163,"power":70,"category":"physical","type":"normal"}

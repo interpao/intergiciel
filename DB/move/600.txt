@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:11.020894", "description": "", "id": 600, "modified": "2013-11-03T15:06:11.020839", "name": "Rototiller", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/600/"}
+{"pp":10,"created":"2013-11-03T15:06:11.020894","resource_uri":"/api/v1/move/600/","accuracy":0,"description":"","type":"ground","priority":0,"target":"field","name":"Rototiller","modified":"2013-11-03T15:06:11.020839","id":600,"power":0,"category":"status"}

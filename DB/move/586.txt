@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.983119", "description": "", "id": 586, "modified": "2013-11-03T15:06:10.983063", "name": "Misty-terrain", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/586/"}
+{"pp":15,"created":"2013-11-03T15:06:10.983119","resource_uri":"/api/v1/move/586/","accuracy":0,"description":"","type":"fairy","priority":0,"target":"field","name":"Misty-terrain","modified":"2013-11-03T15:06:10.983063","id":586,"power":0,"category":"status"}

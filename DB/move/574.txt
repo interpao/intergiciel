@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.951996", "description": "", "id": 574, "modified": "2013-11-03T15:06:10.951948", "name": "Flower-shield", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/574/"}
+{"pp":10,"created":"2013-11-03T15:06:10.951996","resource_uri":"/api/v1/move/574/","accuracy":0,"description":"","type":"fairy","priority":0,"target":"field","name":"Flower-shield","modified":"2013-11-03T15:06:10.951948","id":574,"power":0,"category":"status"}

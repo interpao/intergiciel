@@ -1,1 +1,0 @@
-{"pp":10,"created":"2013-11-03T15:06:09.969245","resource_uri":"/api/v1/move/190/","name":"Octazooka","accuracy":85,"description":"Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.","modified":"2013-12-24T15:24:30.761041","id":190,"power":65,"category":"special","type":"water"}

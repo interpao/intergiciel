@@ -1,1 +1,1 @@
-{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.944081", "description": "", "id": 571, "modified": "2013-11-03T15:06:10.944025", "name": "Fairy-lock", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/571/"}
+{"pp":10,"created":"2013-11-03T15:06:10.944081","resource_uri":"/api/v1/move/571/","accuracy":0,"description":"","type":"fairy","priority":0,"target":"field","name":"Fairy-lock","modified":"2013-11-03T15:06:10.944025","id":571,"power":0,"category":"status"}
